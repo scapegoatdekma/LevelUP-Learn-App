@@ -13,7 +13,7 @@
 
 - Frontend: React + Ant Design
 - Backend: Express + SQLite
-- Валидация: ручная (без zod)
+- Валидация: ручная
 
 ## 2. Быстрый запуск
 
