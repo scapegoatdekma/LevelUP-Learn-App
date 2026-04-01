@@ -1,4 +1,4 @@
-# LevelUp API + React (шпаргалка для преподавателя)
+# LevelUp API + React
 
 ## 1. Назначение проекта
 
