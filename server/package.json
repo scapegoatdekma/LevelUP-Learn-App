@@ -1,0 +1,27 @@
+{
+  "name": "levelup-server",
+  "version": "1.0.0",
+  "description": "LevelUp API for React networking lessons",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node src/server.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
