@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ![Главный экран](client/public/main.png)
 
 ![Схема БД](client/public/db.png)
 
+=======
+>>>>>>> 7af994e5b7a7ef7836cbb1d6ba201d8015c87a05
 # LevelUp API + React
 
 ## 1. Назначение проекта
