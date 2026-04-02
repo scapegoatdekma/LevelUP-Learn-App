@@ -1,4 +1,8 @@
-# LevelUp API + React (шпаргалка для преподавателя)
+![Главный экран](client/public/main.png)
+
+![Схема БД](client/public/db.png)
+
+# LevelUp API + React
 
 ## 1. Назначение проекта
 
